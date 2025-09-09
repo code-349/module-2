@@ -8,4 +8,8 @@ LeftShiftExample
 <img width="1449" height="582" alt="image" src="https://github.com/user-attachments/assets/d9d11338-58b4-4d3e-b939-7783d46f8a22" />
 RightShiftExample
 <img width="1595" height="391" alt="image" src="https://github.com/user-attachments/assets/4e7a2105-99fa-4575-a061-28bcbc9d32ab" />
-
+ UnsignedRightShiftExample
+<img width="1433" height="449" alt="image" src="https://github.com/user-attachments/assets/13474cbc-c73b-42b6-b564-f366819d5283" />
+EqualToExample
+<img width="1344" height="460" alt="image" src="https://github.com/user-attachments/assets/1dc6cacb-bee5-4caf-877b-6194fe713fed" />
+<img width="1525" height="439" alt="image" src="https://github.com/user-attachments/assets/83249747-6134-4ffe-8611-489a35e76e2c" />
