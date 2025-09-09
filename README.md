@@ -13,3 +13,6 @@ RightShiftExample
 EqualToExample
 <img width="1344" height="460" alt="image" src="https://github.com/user-attachments/assets/1dc6cacb-bee5-4caf-877b-6194fe713fed" />
 <img width="1525" height="439" alt="image" src="https://github.com/user-attachments/assets/83249747-6134-4ffe-8611-489a35e76e2c" />
+NotEqualExample
+<img width="1815" height="535" alt="image" src="https://github.com/user-attachments/assets/b6107bd1-af8c-42d6-b94b-1bc3f71fe52c" />
+<img width="1591" height="693" alt="image" src="https://github.com/user-attachments/assets/2c4448aa-a3e9-4e94-a7c2-3d35fd6e72b3" />
