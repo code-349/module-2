@@ -34,3 +34,5 @@ Less then Or Equalto Example
 <img width="1312" height="496" alt="image" src="https://github.com/user-attachments/assets/eee3448f-0ec9-4c6a-894a-3a1c00fea38d" />
 Multiply Assigne Example
 <img width="1356" height="864" alt="image" src="https://github.com/user-attachments/assets/150899f5-f17b-4885-82a3-162bfb93f76e" />
+Mod Assigne Example
+<img width="1415" height="365" alt="image" src="https://github.com/user-attachments/assets/dfce62db-0d0f-4c3a-a8d1-71210c331923" />
