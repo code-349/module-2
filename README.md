@@ -22,3 +22,6 @@ LogicalNot Example
 <img width="1621" height="592" alt="image" src="https://github.com/user-attachments/assets/6d0762de-edf4-445c-bcb0-f84d801b5e2b" />
  LogicalAnd Example
  <img width="1167" height="583" alt="image" src="https://github.com/user-attachments/assets/09912abc-cba3-4d4b-9fd8-ec0991234bcf" />
+Greater then example
+<img width="1199" height="513" alt="image" src="https://github.com/user-attachments/assets/7aa82301-a5b7-46ce-83d5-c65dd7fdd64d" />
+<img width="1363" height="662" alt="image" src="https://github.com/user-attachments/assets/d9be1d49-960e-4c82-9832-0eae4774a46b" />
