@@ -25,3 +25,6 @@ LogicalNot Example
 Greater then example
 <img width="1199" height="513" alt="image" src="https://github.com/user-attachments/assets/7aa82301-a5b7-46ce-83d5-c65dd7fdd64d" />
 <img width="1363" height="662" alt="image" src="https://github.com/user-attachments/assets/d9be1d49-960e-4c82-9832-0eae4774a46b" />
+LessThen Example
+<img width="1356" height="374" alt="image" src="https://github.com/user-attachments/assets/a29088af-a08a-40d2-9c73-eb8f7c6d56a8" />
+<img width="1420" height="433" alt="image" src="https://github.com/user-attachments/assets/14ae502b-ea19-437e-aae8-cde53686bcf8" />
