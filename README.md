@@ -28,3 +28,9 @@ Greater then example
 LessThen Example
 <img width="1356" height="374" alt="image" src="https://github.com/user-attachments/assets/a29088af-a08a-40d2-9c73-eb8f7c6d56a8" />
 <img width="1420" height="433" alt="image" src="https://github.com/user-attachments/assets/14ae502b-ea19-437e-aae8-cde53686bcf8" />
+Lessthen Or Equalto Example 
+<img width="1380" height="510" alt="image" src="https://github.com/user-attachments/assets/9e2d0330-1a66-4c6b-9f8b-53d07a37d197" />
+Less then Or Equalto Example
+<img width="1312" height="496" alt="image" src="https://github.com/user-attachments/assets/eee3448f-0ec9-4c6a-894a-3a1c00fea38d" />
+Multiply Assigne Example
+<img width="1356" height="864" alt="image" src="https://github.com/user-attachments/assets/150899f5-f17b-4885-82a3-162bfb93f76e" />
