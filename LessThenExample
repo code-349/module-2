@@ -1,0 +1,8 @@
+public class LessThenExample {
+public static void main(String[] args){
+int x = 55, y = 30;
+
+System.out.println("X<y:"+(x<y));
+
+}
+}
