@@ -46,5 +46,10 @@ GradeExample
  <img width="1526" height="495" alt="image" src="https://github.com/user-attachments/assets/acc5f4e7-08dc-4aaa-80d2-af5a15504880" />
 PrefixExample 
 <img width="1420" height="547" alt="image" src="https://github.com/user-attachments/assets/c445ba9b-5b68-4826-834b-0ab3c2bcef05" />
+ParenthesesOverride
+<img width="1490" height="413" alt="image" src="https://github.com/user-attachments/assets/a56424ae-45b0-4974-abdf-94e6dc3c8699" />
+
+MixedOperators
+<img width="1371" height="544" alt="image" src="https://github.com/user-attachments/assets/0e9a8193-4e13-4dfd-b545-363919fddc8b" />
 
 
