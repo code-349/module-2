@@ -36,3 +36,7 @@ Multiply Assigne Example
 <img width="1356" height="864" alt="image" src="https://github.com/user-attachments/assets/150899f5-f17b-4885-82a3-162bfb93f76e" />
 Mod Assigne Example
 <img width="1415" height="365" alt="image" src="https://github.com/user-attachments/assets/dfce62db-0d0f-4c3a-a8d1-71210c331923" />
+TernaryExample
+<img width="1337" height="397" alt="image" src="https://github.com/user-attachments/assets/dd130b09-5422-4284-bc45-75c7196e8bef" />
+GradeExample
+<img width="1465" height="604" alt="image" src="https://github.com/user-attachments/assets/5f91df93-f1fb-48f2-9e47-502d3f790e6f" />
