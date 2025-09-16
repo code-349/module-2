@@ -51,5 +51,10 @@ ParenthesesOverride
 
 MixedOperators
 <img width="1371" height="544" alt="image" src="https://github.com/user-attachments/assets/0e9a8193-4e13-4dfd-b545-363919fddc8b" />
+PrefixExamplebitwise
+<img width="1469" height="429" alt="image" src="https://github.com/user-attachments/assets/039c2403-470a-4428-9db6-690e93bcac41" />
+BitwiseNotExample
+<img width="1491" height="454" alt="image" src="https://github.com/user-attachments/assets/6755da15-c17a-4719-81b3-d082db8e05d1" />
+
 
 
