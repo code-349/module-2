@@ -44,5 +44,7 @@ GradeExample
  <img width="1411" height="558" alt="image" src="https://github.com/user-attachments/assets/56caf688-2855-489b-9bd9-df550610a11f" />
  OperatorPrecedence
  <img width="1526" height="495" alt="image" src="https://github.com/user-attachments/assets/acc5f4e7-08dc-4aaa-80d2-af5a15504880" />
+PrefixExample 
+<img width="1420" height="547" alt="image" src="https://github.com/user-attachments/assets/c445ba9b-5b68-4826-834b-0ab3c2bcef05" />
 
 
