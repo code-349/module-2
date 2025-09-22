@@ -55,6 +55,10 @@ PrefixExamplebitwise
 <img width="1469" height="429" alt="image" src="https://github.com/user-attachments/assets/039c2403-470a-4428-9db6-690e93bcac41" />
 BitwiseNotExample
 <img width="1491" height="454" alt="image" src="https://github.com/user-attachments/assets/6755da15-c17a-4719-81b3-d082db8e05d1" />
+NestedlfExample
+<img width="1491" height="867" alt="image" src="https://github.com/user-attachments/assets/6a95cf62-2bac-4200-9718-8ff67df9eddf" />
+SwitchExample
+<img width="1425" height="416" alt="image" src="https://github.com/user-attachments/assets/58808229-c5e7-462b-be4a-55f8da3b4f0f" />
 
 
 
