@@ -20,7 +20,7 @@ LogicalOr Example
 <img width="1267" height="461" alt="image" src="https://github.com/user-attachments/assets/0c4bc0f4-780c-44da-b2a9-c21933f870e8" />
 LogicalNot Example
 <img width="1621" height="592" alt="image" src="https://github.com/user-attachments/assets/6d0762de-edf4-445c-bcb0-f84d801b5e2b" />
- LogicalAnd Example
+LogicalAnd Example
  <img width="1167" height="583" alt="image" src="https://github.com/user-attachments/assets/09912abc-cba3-4d4b-9fd8-ec0991234bcf" />
 Greater then example
 <img width="1199" height="513" alt="image" src="https://github.com/user-attachments/assets/7aa82301-a5b7-46ce-83d5-c65dd7fdd64d" />
@@ -40,15 +40,14 @@ TernaryExample
 <img width="1337" height="397" alt="image" src="https://github.com/user-attachments/assets/dd130b09-5422-4284-bc45-75c7196e8bef" />
 GradeExample
 <img width="1465" height="604" alt="image" src="https://github.com/user-attachments/assets/5f91df93-f1fb-48f2-9e47-502d3f790e6f" />
- PositiveNegativeZero
+PositiveNegativeZero
  <img width="1411" height="558" alt="image" src="https://github.com/user-attachments/assets/56caf688-2855-489b-9bd9-df550610a11f" />
- OperatorPrecedence
+OperatorPrecedence
  <img width="1526" height="495" alt="image" src="https://github.com/user-attachments/assets/acc5f4e7-08dc-4aaa-80d2-af5a15504880" />
 PrefixExample 
 <img width="1420" height="547" alt="image" src="https://github.com/user-attachments/assets/c445ba9b-5b68-4826-834b-0ab3c2bcef05" />
 ParenthesesOverride
 <img width="1490" height="413" alt="image" src="https://github.com/user-attachments/assets/a56424ae-45b0-4974-abdf-94e6dc3c8699" />
-
 MixedOperators
 <img width="1371" height="544" alt="image" src="https://github.com/user-attachments/assets/0e9a8193-4e13-4dfd-b545-363919fddc8b" />
 PrefixExamplebitwise
@@ -59,6 +58,10 @@ NestedlfExample
 <img width="1491" height="867" alt="image" src="https://github.com/user-attachments/assets/6a95cf62-2bac-4200-9718-8ff67df9eddf" />
 SwitchExample
 <img width="1425" height="416" alt="image" src="https://github.com/user-attachments/assets/58808229-c5e7-462b-be4a-55f8da3b4f0f" />
+ForLoopExample
+ <img width="1456" height="325" alt="image" src="https://github.com/user-attachments/assets/d36ffc73-2793-40f9-8099-0ebc1b765d29" />
+WhileLoopExample 
+<img width="1458" height="539" alt="image" src="https://github.com/user-attachments/assets/59078b68-77d3-45ab-8aab-fbc249af1dc3" />
 
 
 
