@@ -62,6 +62,19 @@ ForLoopExample
  <img width="1456" height="325" alt="image" src="https://github.com/user-attachments/assets/d36ffc73-2793-40f9-8099-0ebc1b765d29" />
 WhileLoopExample 
 <img width="1458" height="539" alt="image" src="https://github.com/user-attachments/assets/59078b68-77d3-45ab-8aab-fbc249af1dc3" />
+ DoWhileExample
+ <img width="1484" height="658" alt="image" src="https://github.com/user-attachments/assets/f6853647-ea59-4da4-8774-f8e0087f1c34" />
+ForEachExample
+<img width="1510" height="556" alt="image" src="https://github.com/user-attachments/assets/b22b475c-356e-4858-bb13-4fbe2c7409d0" />
+BreakExample
+<img width="1424" height="635" alt="image" src="https://github.com/user-attachments/assets/bac95762-8390-4c7d-bab4-4629fe2d4670" />
+ ContinueExample 
+ <img width="1223" height="438" alt="image" src="https://github.com/user-attachments/assets/5e1ecdb2-fd34-4f59-a198-7aada29c3fb7" />
+ ReturnExample
+<img width="1326" height="773" alt="image" src="https://github.com/user-attachments/assets/83c4ef13-5b45-4855-9c6d-01102ed0ec04" />
+
+
+
 
 
 
